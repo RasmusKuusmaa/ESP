@@ -4,3 +4,9 @@ GET {{t2_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{t2_HostAddress}}/pizza/
+Accept: application/json
+
+###
+GET {{t2_HostAddress}}/pizza/5
+Accept: application/json
