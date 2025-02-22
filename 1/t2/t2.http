@@ -10,3 +10,27 @@ Accept: application/json
 ###
 GET {{t2_HostAddress}}/pizza/5
 Accept: application/json
+
+###
+POST {{t2_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
+PUT {{t2_HostAddress}}/pizza/4
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "Hawaiian",
+    "isGlutenFree": true
+}
+
+###
+DELETE {{t2_HostAddress}}/pizza/3
+
+###
