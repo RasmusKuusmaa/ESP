@@ -41,6 +41,11 @@ public partial class MainWindow : Window
         clickedButton.IsEnabled = false;
         clickedButton.Content = cur;
         board[row, col] = cur;
+        if (CheckDraw())
+        {
+            MessageBox.Show("draw");
+            ResetBoard();
+        }
         if (CheckWinner())
         {
             MessageBox.Show($"{cur} won");
@@ -83,5 +88,19 @@ public partial class MainWindow : Window
             button.Content = "";
             button.IsEnabled = true;
         }
+    }
+    private bool CheckDraw()
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                if (board[i, j] == null)
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
