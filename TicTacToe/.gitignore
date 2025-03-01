@@ -1,0 +1,66 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-AnyCPU/
+[Dd]eploy/
+[Dd]eploy-x86/
+[Dd]eploy-x64/
+[Dd]eploy-AnyCPU/
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+
+# User-specific files for Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer cache files
+*~.cab
+*~.msi
+*~.msm
+*~.msp
+
+# Windows Installer files
+*.deploy
+
+# Windows Thumbnail Cache
+Thumbs.db
+
+# Windows Installer Files
+*.vspscc
+*.vssscc
+
+# Tye - .NET Core development tools (https://aka.ms/tye)
+.tye/
+
+# JetBrains Rider specific files
+.idea/
+
+# User-specific JetBrains Rider files
+.idea/.idea/
+.idea/*
+
+# Rider caches
+.idea/.idea/*
+
+# NUnit
+TestResult.xml
+TestResult*.xml
+Test*.txt
