@@ -28,7 +28,7 @@ public partial class MainWindow : Window
         Button clickedButton = sender as Button;
         int row = Grid.GetRow(clickedButton);
         int col = Grid.GetColumn(clickedButton);
-
+  
         if (cur == "x")
         {
             cur = "o";
@@ -38,7 +38,7 @@ public partial class MainWindow : Window
             cur = "x";
         }
 
-       
+        clickedButton.IsEnabled = false;
         clickedButton.Content = cur;
         board[row, col] = cur;
         if (CheckWinner())
@@ -66,8 +66,6 @@ public partial class MainWindow : Window
             return true;
         
 
-        return false;
-         
-    }
-    
+        return false;    
+    }    
 }
