@@ -15,10 +15,24 @@ namespace TicTacToe;
 /// Interaction logic for MainWindow.xaml
 /// </summary>
 public partial class MainWindow : Window
-{    public MainWindow()
+{
+    bool IsXPlaying = true;
+    public MainWindow()
     {
         InitializeComponent();
     }
 
-   
+    private void btn_Click(object sender, RoutedEventArgs e)
+    {
+        Button clickedButton = sender as Button;
+
+        if (IsXPlaying)
+        {
+            clickedButton.Content = "x";
+        } else
+        {
+            clickedButton.Content = "o";
+        }
+        IsXPlaying = !IsXPlaying;
+    }
 }
