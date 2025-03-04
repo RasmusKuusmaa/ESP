@@ -8,6 +8,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System;
+using System.Data.SqlClient;
+using System.Windows;
+using System.Diagnostics;
 
 namespace TicTacToe;
 
@@ -18,6 +22,9 @@ public partial class MainWindow : Window
 {
     private string[,] board = new string[3, 3];
     private string cur = "o";
+    private int xWins = 0;
+    private int oWins = 0;
+
     public MainWindow()
     {
         InitializeComponent();
@@ -45,11 +52,23 @@ public partial class MainWindow : Window
         {
             MessageBox.Show("draw");
             ResetBoard();
+            oWins++;
+            xWins++;
+     
         }
-        if (CheckWinner())
+        else if (CheckWinner())
         {
+
             MessageBox.Show($"{cur} won");
+            if (cur == "x")
+            {
+                xWins++;
+            } else
+            {
+                oWins++;
+            }
             ResetBoard();
+
         }
     }
     private bool CheckWinner()
@@ -76,6 +95,8 @@ public partial class MainWindow : Window
     }
     private void ResetBoard()
     {
+        UpdateScoreBoard();
+        Debug.WriteLine("log");
         for (int i = 0; i < 3; i++)
         {
             for (int j = 0; j < 3; j++)
@@ -102,5 +123,11 @@ public partial class MainWindow : Window
             }
         }
         return true;
+    }
+    private void UpdateScoreBoard()
+    {
+        txtXScore.Text = $"X : {xWins}";
+        txtOScore.Text = $"O : {oWins}";
+
     }
 }
