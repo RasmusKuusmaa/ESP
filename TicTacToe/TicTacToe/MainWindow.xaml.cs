@@ -11,7 +11,8 @@ using System.Windows.Shapes;
 using System;
 using System.Data.SqlClient;
 using System.Windows;
-using System.Diagnostics;
+using Microsoft.Data.SqlClient;
+
 
 namespace TicTacToe;
 
@@ -67,6 +68,7 @@ public partial class MainWindow : Window
             {
                 oWins++;
             }
+            SaveGameResultToDatabase();
             ResetBoard();
 
         }
@@ -96,7 +98,7 @@ public partial class MainWindow : Window
     private void ResetBoard()
     {
         UpdateScoreBoard();
-        Debug.WriteLine("log");
+
         for (int i = 0; i < 3; i++)
         {
             for (int j = 0; j < 3; j++)
@@ -130,4 +132,7 @@ public partial class MainWindow : Window
         txtOScore.Text = $"O : {oWins}";
 
     }
+   
+    }
+
 }

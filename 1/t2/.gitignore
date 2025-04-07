@@ -1,0 +1,28 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstate
+
+# Ignore configuration files with sensitive data (replace with non-sensitive alternatives if needed)
+appsettings.json
+appsettings.Development.json
+
+# Ignore package management folders
+node_modules/
+packages/
+
+# Ignore output folders from published files
+publish/
+bin/Release/
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs and other temporary files
+*.log

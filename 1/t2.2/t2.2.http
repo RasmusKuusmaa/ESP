@@ -1,0 +1,6 @@
+@t2 = http://localhost:5082
+
+GET {{t2}}/pizza/
+Accept: application/json
+
+###

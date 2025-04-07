@@ -1,0 +1,13 @@
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\wsc25s1t2.exe.config
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\wsc25s1t2.exe
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\wsc25s1t2.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.csproj.AssemblyReference.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.Properties.Resources.resources
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.csproj.GenerateResource.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.csproj.CoreCompileInputs.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.exe
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\Images\cat-1.jpg
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\Images\cat-2.jpg
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\bin\Debug\Images\no-cat.jpg
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1t2\wsc25s1t2\obj\Debug\wsc25s1t2.Forms.OwnerForm.resources

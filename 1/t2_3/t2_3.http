@@ -1,0 +1,6 @@
+@t2_3_HostAddress = http://localhost:5150
+
+GET {{t2_3_HostAddress}}/pizza/
+Accept: application/json
+
+###

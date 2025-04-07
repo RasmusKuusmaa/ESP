@@ -1,0 +1,14 @@
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\bin\Debug\netstandard2.0\TicTacToemobile.deps.json
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\bin\Debug\netstandard2.0\TicTacToemobile.dll
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\bin\Debug\netstandard2.0\ref\TicTacToemobile.dll
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\bin\Debug\netstandard2.0\TicTacToemobile.pdb
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.csproj.AssemblyReference.cache
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.csproj.CoreCompileInputs.cache
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.AssemblyInfoInputs.cache
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.AssemblyInfo.cs
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.dll
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\ref\TicTacToemobile.dll
+C:\Users\rasmus\Desktop\es\esp\TicTacToemobile\TicTacToemobile\TicTacToemobile\obj\Debug\netstandard2.0\TicTacToemobile.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToemobile.MainPage">
+
+    <Grid Padding="10" RowSpacing="5" ColumnSpacing="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="btn00" Grid.Row="0" Grid.Column="0" Clicked="OnButtonClick"/>
+        <Button x:Name="btn01" Grid.Row="0" Grid.Column="1" Clicked="OnButtonClick"/>
+        <Button x:Name="btn02" Grid.Row="0" Grid.Column="2" Clicked="OnButtonClick"/>
+
+        <Button x:Name="btn10" Grid.Row="1" Grid.Column="0" Clicked="OnButtonClick"/>
+        <Button x:Name="btn11" Grid.Row="1" Grid.Column="1" Clicked="OnButtonClick"/>
+        <Button x:Name="btn12" Grid.Row="1" Grid.Column="2" Clicked="OnButtonClick"/>
+
+        <Button x:Name="btn20" Grid.Row="2" Grid.Column="0" Clicked="OnButtonClick"/>
+        <Button x:Name="btn21" Grid.Row="2" Grid.Column="1" Clicked="OnButtonClick"/>
+        <Button x:Name="btn22" Grid.Row="2" Grid.Column="2" Clicked="OnButtonClick"/>
+    </Grid>
+
+</ContentPage>

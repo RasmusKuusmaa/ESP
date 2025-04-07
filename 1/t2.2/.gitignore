@@ -1,0 +1,76 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## IDE files (Visual Studio, Rider, VS Code)
+.vscode/
+.idea/
+*.code-workspace
+
+## Visual Studio specific
+.vs/
+*.ncb
+*.sdf
+*.cache
+*.dbmdl
+
+## ASP.NET Core secrets and configurations
+secrets.json
+
+## Build logs
+*.log
+
+## Package directories
+packages/
+*.nupkg
+*.snupkg
+
+## Backup and temporary files
+*.bak
+*.tmp
+*.temp
+*.swp
+
+## Rider and JetBrains
+*.sln.iml
+
+## DotCover
+*.dotCover
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Azure Pipelines
+.azurepipelines/
+
+## Publish results
+publish/
+
+## Environment files
+.env
+
+## Global JSON files
+global.json
+
+## Node modules (if using frontend in ASP.NET Core)
+node_modules/
+
+## Coverage reports
+coverage/
+*.lcov
+
+## Logs
+logs/
+*.log
+
+## Docker artifacts
+docker-compose.override.yml

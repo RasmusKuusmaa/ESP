@@ -1,0 +1,15 @@
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.csproj.AssemblyReference.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.Properties.Resources.resources
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.csproj.GenerateResource.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.csproj.CoreCompileInputs.cache
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\wsc25s1.exe.config
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\wsc25s1.exe
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\wsc25s1.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.exe
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\obj\Debug\wsc25s1.csproj.CopyComplete
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\Images\cat-1.jpg
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\Images\cat-2.jpg
+C:\Users\rasmus\Desktop\es\esp\t1\wsc25s1\wsc25s1\bin\Debug\Images\no-cat.jpg

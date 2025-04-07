@@ -1,0 +1,10 @@
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\bin\Debug\T1.exe.config
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\bin\Debug\T1.exe
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\bin\Debug\T1.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.csproj.AssemblyReference.cache
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.Properties.Resources.resources
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.csproj.GenerateResource.cache
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.csproj.CoreCompileInputs.cache
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.exe
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.pdb
+C:\Users\rasmus\Desktop\es\esp\t1\T1\T1\obj\Debug\T1.MainForm.resources
